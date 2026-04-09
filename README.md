@@ -2,8 +2,8 @@
 
 Language:
 
-- English: [README.en.md](/Users/Mac/Downloads/llmMonitor/README.en.md)
-- 中文: [README.zh-CN.md](/Users/Mac/Downloads/llmMonitor/README.zh-CN.md)
+- English: [README.en.md](./README.en.md)
+- 中文: [README.zh-CN.md](./README.zh-CN.md)
 
 Ollama API Monitor is a local monitoring proxy for Ollama. It records request metadata into daily JSONL logs, exposes CLI views for stats and tailing, and serves a lightweight dashboard at `/dashboard`.
 
